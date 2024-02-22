@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/josephk-O/first-frontend-mentor-project.github.io)
-- Live Site URL: [Add live site URL here](https://first-frontend-mentor-project.vercel.app)
+- Solution URL: [ solution URL ](https://github.com/josephk-O/first-frontend-mentor-project.github.io)
+- Live Site URL: [ live site URL ](https://first-frontend-mentor-project.vercel.app)
 
 ## My process
 
@@ -48,4 +48,4 @@ More Css tricks and understanding how to use tailwind effectively
 ## Author
 
 - Website - [Joseph](https://www.kayjoseph.site)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/josephk)
+- Frontend Mentor - [@josephk](https://www.frontendmentor.io/profile/josephk)
